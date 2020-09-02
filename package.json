@@ -12,6 +12,9 @@
   },
   "author": "",
   "license": "ISC",
+  "bin": {
+    "tme": "index.js"
+  },
   "bugs": {
     "url": "https://github.com/freijea/tme/issues"
   },
