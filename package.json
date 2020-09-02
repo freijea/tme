@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/freijea/tme/issues"
   },
-  "homepage": "https://github.com/freijea/tme#readme"
+  "homepage": "https://github.com/freijea/tme#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "jsdom": "^16.4.0"
+  }
 }
