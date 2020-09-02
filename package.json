@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/freijea/tme.git"
   },
-  "author": "",
+  "author": "Jean",
   "license": "ISC",
   "bin": {
     "tme": "index.js"
